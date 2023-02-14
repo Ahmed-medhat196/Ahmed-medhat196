@@ -7,7 +7,7 @@
 
 
 
-## <picture><img src = "https://github.com/Ahmed-medhat196/Ahmed-medhat196/blob/master/images/about_me.gif?raw=true" width = 50px></picture> About me 
+## <picture><img src = "https://github.com/Ahmed-medhat196/Ahmed-medhat196/blob/master/images/about_me.gif?raw=true" width = 30px></picture> About me 
 <br>
 <picture> <img align="right" src="https://github.com/Ahmed-medhat196/Ahmed-medhat196/blob/master/images/Software_Tools.gif?raw=true" width = 300px></picture>
 
