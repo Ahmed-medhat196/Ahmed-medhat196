@@ -7,9 +7,9 @@
 
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
+## <picture><img src = "https://github.com/Ahmed-medhat196/Ahmed-medhat196/blob/master/images/about_me.gif?raw=true" width = 50px></picture> About me 
 <br>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/Ahmed-medhat196/Ahmed-medhat196/blob/master/images/Software_Tools.gif?raw=true" width = 300px></picture>
 
 -  I am a `Junior` at [Faculty of Computer Science & Artificial Intelligence]
 -  I love using Software as a solution for every `Problem`.
@@ -21,7 +21,7 @@
 
 
 
-## <picture> <img src="https://github.com/TEST-TEST-2023/TEST-TEST-2023/blob/main/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me 
+## <picture> <img src="https://github.com/Ahmed-medhat196/Ahmed-medhat196/blob/master/images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me 
 <br>
 <p align="center">
 	<a href="mailto:ahmedmedhat5210@Gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -36,7 +36,6 @@
 ## 🛠️ Programming languages and Tools : 
 <p align="center"> 
   &emsp; 
-<!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> -->
 <p align="center"> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
