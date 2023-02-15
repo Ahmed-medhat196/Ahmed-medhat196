@@ -13,7 +13,6 @@
 
 -  I am a `Junior` at [Faculty of Computer Science & Artificial Intelligence]
 -  I love using Software as a solution for every `Problem`.
-<!-- -  🔭 I’m currently working on `Social media project` -->
 -  I’m currently learning `Computer Science` and `Software Engineering`.
 -  Always `learning new things`.
 -  I’m currently open for `an Intern` or a new `job opportunity`
@@ -31,6 +30,7 @@
 	<a href="https://www.facebook.com/profile.php?id=100004265882495"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
+<!--  🔭 I’m currently working on `Social media project` -->
 
 
 ## 🛠️ Programming languages and Tools : 
