@@ -13,7 +13,7 @@
 
 -  I am a `Junior` at [Faculty of Computer Science & Artificial Intelligence]
 -  I love using Software as a solution for every `Problem`.
--  🔭 I’m currently working on `Social media project`
+<!-- -  🔭 I’m currently working on `Social media project` -->
 -  I’m currently learning `Computer Science` and `Software Engineering`.
 -  Always `learning new things`.
 -  I’m currently open for `an Intern` or a new `job opportunity`
